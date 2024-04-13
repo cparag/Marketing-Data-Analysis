@@ -3,6 +3,7 @@
 This project involved performing comprehensive exploratory data analysis (EDA) to combine multiple data sources and highlight key findings. The analysis focused on data modification, cleansing, and visualization to uncover insights and improve customer experience.
 
 Key Achievements
+
 •	Data Analysis Libraries: Utilized popular data analysis libraries such as Matplotlib, Seaborn, Pandas, and NumPy for EDA, enabling efficient data manipulation and visualization.
 
 •	Customer Segmentation: Enhanced customer experience by 40% through the identification of potential clients across various states, professions, genders, and age ranges, enabling targeted marketing strategies.
