@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis
+## Marketingy-Data-Analysis
 
 This project involved performing comprehensive exploratory data analysis (EDA) to combine multiple data sources and highlight key findings. The analysis focused on data modification, cleansing, and visualization to uncover insights and improve customer experience.
 
